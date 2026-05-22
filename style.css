@@ -184,19 +184,19 @@ nav a::before {
 }
 
 .nav-about::before {
-  background-image: url("/image/../4503668373191910.jpg");
+  background-image: url("4503668373191910.jpg");
 }
 
 .nav-portfolio::before {
-  background-image: url("/image/../8373949303429983.jpg");
+  background-image: url("8373949303429983.jpg");
 }
 
 .nav-blog::before {
-  background-image: url("/image/../664492120067474286.jpg");
+  background-image: url("664492120067474286.jpg");
 }
 
 .nav-contact::before {
-  background-image: url("/image/../download\ \(13\).jpg");
+  background-image: url("download\ \(13\).jpg");
 }
 
 nav a:hover {
@@ -331,7 +331,7 @@ nav a.is-active {
 .hero-image {
   width: min(72vw, 360px);
   aspect-ratio: 1;
-  background-image: url("/image/../me.jpeg");
+  background-image: url("me.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -617,15 +617,15 @@ nav a.is-active {
 }
 
 .instagram-icon {
-  background-image: url("/image/../Instagram.jpg");
+  background-image: url("Instagram.jpg");
 }
 
 .Tiktok-icon {
-  background-image: url("/image/../TikTok.jpg");
+  background-image: url("TikTok.jpg");
 }
 
 .Youtube-icon {
-  background-image: url("/image/../Youtube.jpg");
+  background-image: url("Youtube.jpg");
 }
 
 @keyframes float {
